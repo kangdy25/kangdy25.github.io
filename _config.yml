@@ -27,21 +27,17 @@ url: "https://kangdy25.github.io"
 github:
   username: kangdy25 # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: DongYoon Kang
-  email: example@domain.com # change to your email address
+  email: kdy256120@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.instagram.com/shineast_01/
+    - https://www.linkedin.com/in/dongyoon-kang-26a055321/
 
 # Site Verification Settings
 webmaster_verifications:
@@ -97,7 +93,7 @@ theme_mode: # [light | dark]
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "assets/logo.jpg"
+avatar: "assets/img/logo.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
