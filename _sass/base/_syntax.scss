@@ -64,6 +64,7 @@ code {
   color: var(--code-color);
 
   &.highlighter-rouge {
+    font-family: 'NANUM GOTHIC';
     font-size: v.$code-font-size;
     padding: 3px 5px;
     word-break: break-word;
